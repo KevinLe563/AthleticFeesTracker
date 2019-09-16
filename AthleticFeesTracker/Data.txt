@@ -1,0 +1,4 @@
+Team: Swim
+Player: Billy Jones 45897454
+Fee: Jersey $50 Paid
+Fee: Provincials $120 Owing

@@ -1,0 +1,8 @@
+The client can add teams
+The client can remove teams
+The client can add new athletes
+The client can edit previous athletes
+The client can remove athletes
+The client can add and remove fees to the athletes
+The client can check off fees that are paid
+Outputs it in a way that is easy to read and easily accessible
